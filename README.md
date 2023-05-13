@@ -12,6 +12,8 @@ The Library Management System is a simple software application that allows you t
 - **List Report of Available Books**: The system generates a report that displays all the books currently available in the library, allowing staff to identify available resources.
 
 ## Screenshots
+![Main](https://github.com/Raveen522/Simple-Library-Management-System/assets/89937137/8c08a52f-6ad2-4639-8c18-0ca638cfc046)
+![Windows](https://github.com/Raveen522/Simple-Library-Management-System/assets/89937137/0a2c4f02-31cd-447f-a3f7-f6a0486d9e3d)
 
 
 ## Contact
